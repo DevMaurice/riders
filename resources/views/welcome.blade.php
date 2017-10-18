@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel
+                    LIttle Riders Server up
                 </div>
 
                 <div class="links">
